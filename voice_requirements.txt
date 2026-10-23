@@ -1,0 +1,7 @@
+numpy
+sounddevice
+SpeechRecognition
+gTTS
+pygame
+anthropic
+groq

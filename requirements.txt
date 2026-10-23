@@ -1,4 +1,13 @@
-opencv-python
+streamlit>=1.39.0
+streamlit-webrtc
+av
+opencv-python-headless
 numpy
 ultralytics
 mediapipe==0.10.14
+SpeechRecognition
+gTTS
+anthropic
+groq
+
+

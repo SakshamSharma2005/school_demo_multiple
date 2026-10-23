@@ -237,3 +237,4 @@ python dadi_assistant.py
 
 ## 📄 License
 This project is open-source and free to use for educational workshops, hackathons, and bootcamp presentations.
+# yolo-school-demo
